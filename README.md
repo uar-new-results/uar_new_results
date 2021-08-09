@@ -14,6 +14,7 @@
 ![Alt text](/STL10_images/uar_denoise_stl10_ex1_ver1.png)  <br />
 ![Alt text](/STL10_images/uar_denoise_stl10_ex2_ver1.png)  <br />
 ![Alt text](/STL10_images/uar_denoise_stl10_ex4_ver1.png)  <br />
+![Alt text](/STL10_images/uar_denoise_stl10_ex6_ver1.png)  <br />
 ![Alt text](/STL10_images/uar_denoise_stl10_ex10_ver1.png)  <br />
 ![Alt text](/STL10_images/uar_denoise_stl10_ex12_ver1.png) 
 
