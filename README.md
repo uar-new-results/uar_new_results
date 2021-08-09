@@ -11,7 +11,9 @@
 # Denoising on STL-10:
 * For this experiment as well, we noted that the refinement gave little to no further improvement on the initial end-to-end reconstruction. The average PSNR (dB) and SSIM over the 8000 test images are as follows: (i) noisy measurement: 19.99 dB, 0.91; (ii) UAR (end-to-end and refined) 25.23 dB, 0.97.
 
-![Alt text](/STL10_images/uar_inpaint_mnist_ex10_ver1.png)  <br />
-![Alt text](/STL10_images/uar_inpaint_mnist_ex13_ver1.png) <br />
-![Alt text](/STL10_images/uar_inpaint_mnist_ex15_ver1.png) <br />
-![Alt text](/STL10_images/uar_inpaint_mnist_ex20_ver1.png) 
+![Alt text](/STL10_images/uar_denoise_stl10_ex1_ver1.png)  <br />
+![Alt text](/STL10_images/uar_denoise_stl10_ex2_ver1.png)  <br />
+![Alt text](/STL10_images/uar_denoise_stl10_ex4_ver1.png)  <br />
+![Alt text](/STL10_images/uar_denoise_stl10_ex10_ver1.png)  <br />
+![Alt text](/STL10_images/uar_denoise_stl10_ex12_ver1.png) 
+
