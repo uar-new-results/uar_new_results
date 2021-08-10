@@ -18,3 +18,5 @@
 ![Alt text](/STL10_images/uar_denoise_stl10_ex10_ver1.png)  <br />
 ![Alt text](/STL10_images/uar_denoise_stl10_ex12_ver1.png) 
 
+# Remarks:
+* These experiments demonstrate that the proposed framework is applicable to inverse problems in general and is not restricted to CT reconstruction. Nevertheless, the training and network hyper-parameters are to be carefully engineered to extract the state-of-the-art performance from UAR for a specific inverse problem of interest. In both of these experiments, we chose to unroll the proximal gradient-descent algorithm (instead of PDHG that was chosen for the CT experiments), which go on to show that the UAR framework is not specific to the choice of the algorithm that one unfolds to construct the generator. 
